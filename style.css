@@ -1,0 +1,29 @@
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+}
+/* .Hom .container{
+    margin-top: 150px;
+    display: flex;
+    flex-wrap: wrap !important;
+}
+.card{
+    margin-left: 64px;
+} */
+.Home .container{
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Home h1, .AboutMe h1{
+    padding-top: 100px;
+    text-align: center;
+}
+.card{
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.nur{
+    display:flex;
+    justify-content: space-between;
+}
